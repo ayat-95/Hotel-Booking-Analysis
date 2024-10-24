@@ -19,12 +19,19 @@
 Using PIVOT TABLE to analysis my data to answer these Questions:
 
 •	Where my Clients Come From? 
+
 •	Booking and cancellations the hotel gets in month and year
+
 •	Repeated guests
+
 •	The Food option generally chooses
+
 •	The Average Daily Rate across the years 
+
 •	The percentage of waiting list depend on hotels.
+
 •	Others charts.
+
 
 
 https://lnkd.in/dt3zvVs8
