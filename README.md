@@ -26,6 +26,9 @@ Using PIVOT TABLE to analysis my data to answer these Questions:
 •	The percentage of waiting list depend on hotels.
 •	Others charts.
 
+
+https://lnkd.in/dt3zvVs8
+
 ### Results 
 
 1-	I found that guests prefer city hotel (61%) more than resort hotel (39%)  . the resort hotel can offer discount to increase the  number of booking .
